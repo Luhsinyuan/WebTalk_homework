@@ -1,0 +1,79 @@
+{
+  "id": "2997272",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26415714",
+      "name": "VR",
+      "font_class": "VR",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "1142",
+      "name": "设计师",
+      "font_class": "shejishi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1260",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1261",
+      "name": "查找用户",
+      "font_class": "chazhaoyonghu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1262",
+      "name": "添加用户",
+      "font_class": "tianjiayonghu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "765290",
+      "name": "我的",
+      "font_class": "shouye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "212332",
+      "name": "group",
+      "font_class": "group",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "4766293",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "15838447",
+      "name": "comment",
+      "font_class": "comment",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "15838474",
+      "name": "favorite",
+      "font_class": "favorite",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
